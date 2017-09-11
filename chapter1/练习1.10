@@ -1,0 +1,11 @@
+#include<iostream>
+int main()
+{
+    int a=11;
+    while(a--)
+    {
+        std::cout<<a<<" ";
+    }
+	std::cout<<std::endl;
+    return 0;
+}
